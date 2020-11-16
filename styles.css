@@ -1,0 +1,37 @@
+body {
+    background-color: lightseagreen;
+    padding: 20px;
+    margin-left: 20px;
+  }
+  
+  p {
+    color: black;
+  }
+
+   
+  h1 {
+    font-size: 36px;
+    color: darkmagenta;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  
+  .heading {
+    font-size: 40px;
+    font-weight: 400;
+  }
+
+  #coding {
+    background-color: lightpink;
+  }
+
+  #sandiego {
+    background-color: lightsalmon;
+  }
+
+  #stl {
+    background-color: lightyellow
+  }
